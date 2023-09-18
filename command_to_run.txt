@@ -1,0 +1,2 @@
+javac -cp .:sqlite-jdbc-3.43.0.0.jar *.java
+java -cp .:sqlite-jdbc-3.43.0.0.jar MainApp
