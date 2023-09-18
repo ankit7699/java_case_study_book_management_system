@@ -1,4 +1,7 @@
 # Java_case_study_book_management_system
+
+Name - ANKIT KUMAR Employee Id - 201307
+
 This project provides a straightforward tool for managing books. Using Java for operations and SQLite for storage, the system allows users to add, update, or remove book entries. It's designed to be user-friendly, efficient, and suitable for any book collection, whether it's for personal use or for a library.
 
 The Book Management System is a fundamental yet proficient application developed using Java as the primary programming tool, integrated with SQLite3 for data storage. The primary objective is to streamline the management of book records, enabling tasks like adding, updating, or removing book details with ease.
